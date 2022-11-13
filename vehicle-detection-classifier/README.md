@@ -8,15 +8,7 @@ Requirements
 * cvlib
 
 Install environment on Linux
-* sudo apt update
-* sudo apt -y upgrade
-* sudo apt install libopencv-dev python3-opencv
-* python -m pip install -U pip
-* pip install opencv-contrib-python
-* pip install tensorflow
-* pip install keras
-* python -m pip install -U matplotlib
-* pip install cvlib
+* pip install -r requirements.txt
 
 
 Install environment on Windows
